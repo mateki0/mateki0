@@ -28,6 +28,12 @@
 \
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#4849](https://github.com/react-native-maps/react-native-maps/issues/4849#issuecomment-1868293081) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
+2. 🗣 Commented on [#4920](https://github.com/react-native-maps/react-native-maps/issues/4920#issuecomment-1868291105) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
+3. ❗ Opened issue [#4916](https://github.com/react-native-maps/react-native-maps/issues/4916) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
+4. 🗣 Commented on [#4698](https://github.com/react-native-maps/react-native-maps/issues/4698#issuecomment-1858878340) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
+5. 🗣 Commented on [#4909](https://github.com/react-native-maps/react-native-maps/pull/4909#issuecomment-1858864051) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
+<!--END_SECTION:activity-->
 
 \
  \
