@@ -25,9 +25,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
 \
+**My latest activity:**
 
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#4849](https://github.com/react-native-maps/react-native-maps/issues/4849#issuecomment-1868293081) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
 2. 🗣 Commented on [#4920](https://github.com/react-native-maps/react-native-maps/issues/4920#issuecomment-1868291105) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
 3. ❗ Opened issue [#4916](https://github.com/react-native-maps/react-native-maps/issues/4916) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
@@ -36,7 +39,6 @@
 <!--END_SECTION:activity-->
 
 \
- \
 **You can contact me on:**
 \
  \
