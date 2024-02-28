@@ -31,11 +31,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4969](https://github.com/react-native-maps/react-native-maps/pull/4969#issuecomment-1969068611) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
-2. 🗣 Commented on [#4984](https://github.com/react-native-maps/react-native-maps/issues/4984#issuecomment-1968971753) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
-3. 🗣 Commented on [#4984](https://github.com/react-native-maps/react-native-maps/issues/4984#issuecomment-1962861273) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
-4. 🗣 Commented on [#4978](https://github.com/react-native-maps/react-native-maps/issues/4978#issuecomment-1962852719) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
-5. 🗣 Commented on [#4983](https://github.com/react-native-maps/react-native-maps/issues/4983#issuecomment-1962847826) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
+1. 🗣 Commented on [#4985](https://github.com/react-native-maps/react-native-maps/pull/4985#issuecomment-1969473372) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
+2. 🗣 Commented on [#4969](https://github.com/react-native-maps/react-native-maps/pull/4969#issuecomment-1969068611) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
+3. 🗣 Commented on [#4984](https://github.com/react-native-maps/react-native-maps/issues/4984#issuecomment-1968971753) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
+4. 🗣 Commented on [#4984](https://github.com/react-native-maps/react-native-maps/issues/4984#issuecomment-1962861273) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
+5. 🗣 Commented on [#4978](https://github.com/react-native-maps/react-native-maps/issues/4978#issuecomment-1962852719) in [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps)
 <!--END_SECTION:activity-->
 
 \
